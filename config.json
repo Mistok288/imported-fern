@@ -1,0 +1,88 @@
+{
+    "bot": {
+        "owner": "779446633489629208",
+        "prefix": ".",
+        "BotStatus": "RolTe ❤️ Nervous",
+        "BotFooter": "RolTe ❤️ Nervous",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "966087826947059762",
+            "log": "966103704694566912",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "966087812522836059",
+            "roles": "967907423098662914",
+            "log": "966103699019681913",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "966087817539256340",
+            "roles": "966087979862999130",
+            "log": "966103699019681913",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "966087826947059762",
+            "log": "966103699019681913"
+        },
+        "transport": {
+            "staff": "966087826947059762"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "966103709115363388",
+        "rollog": "967908243928133662",
+        "messagelog": "966103702349967480",
+        "seslog": "966103707936755772"
+    },
+    "roles": {
+        "vip": "966087836170346618",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "966087861243871232",
+        "team": "966087841484533810"
+    },
+    "channels": {
+        "chat": "966088127305351228",
+        "voicechannel": "966402118619648100",
+        "welcomechannel": "966088078689189888",
+        "rules": "966088102621888592"
+    },
+    "registration": {
+        "unregistered": "966087989061120011",
+        "man": ["966087851173359636"],
+        "woman": ["966087846379278356"],
+        "yetkilialim": "966087802515247146",
+        "staff": "966087812522836059",
+        "enaltyetkilirolü": "966087783728943155",
+        "GuilDTag": "♱",
+        "TagSymbol": "♱",
+        "autonickname": "$ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "967907423098662914",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "966087851173359636",
+        "onewoman": "966087846379278356",
+        "minage": 10, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "966029010595352606",
+        "GuilDName": "N E R V O U S",
+        "GuildOwnerRole": ["966087689617178704"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": ":white_check_mark:",
+        "no": ":x:"
+
+    }
+} 
